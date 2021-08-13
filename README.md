@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-using-Markov-Decision-Process
+# Tic-Tac-Toe-game-based-on-AI system-using-Markov-Decision-Process
 It is an example &amp; Application, how Markov Chain works ! 
 
 # What Is A Markov Chain?
